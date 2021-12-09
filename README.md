@@ -2,7 +2,6 @@
 - 👀 I’m interested in data science in life science..R and python
 - 🌱 I’m currently learning R
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me on my email amrsolayman@gmail.com
 
 <!---
 Amr-Othman/Amr-Othman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
